@@ -1,7 +1,7 @@
 #This is a script to use pass with rofi. 
 #This is the original script https://github.com/geraldwuhoo/passrofi/blob/master/passrofi
 #Mine has a chance just to use a differend theme for rofi. Nothing more.
-
+#Testing github
 
 #!/bin/sh
 
